@@ -21,7 +21,7 @@ Code is under NDA, so here is what I built and what it changed:
 
 - **Low-code automation platform**: client architecture from scratch, scaled to ~90K lines of TypeScript without a rewrite; React Flow workflow editor; UI kit of ~80 components; ~450 tests
 - **Crypto accounting platform**: FSD architecture, role model with 40+ permissions, time to first render cut from 7s to 2s, bundle −40%
-- **Medical university platform**: React → Next.js (SSR/SSG) migration, +14% organic traffic; AI assistant chat with SSE streaming
+- **Medical university platform** ([synapse-med.ru](https://synapse-med.ru)): React → Next.js (SSR/SSG) migration, +14% organic traffic; AI assistant chat with SSE streaming
 - **Mapping service**: heavy geo calculations moved to Web Workers, 1000+ map objects without UI freezes
 
 ## Stack
